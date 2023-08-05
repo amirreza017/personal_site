@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personal_site/static/css/main.e751edf8.css",
+    "main.js": "/personal_site/static/js/main.e65fea64.js",
+    "static/media/img.jpg": "/personal_site/static/media/img.332ff727464520f4b5f3.jpg",
+    "static/media/Sahel-Light.eot": "/personal_site/static/media/Sahel-Light.b1be63adf098dda2a4c8.eot",
+    "static/media/Sahel-Light.ttf": "/personal_site/static/media/Sahel-Light.bfff6d4d33a6fbdfe94c.ttf",
+    "static/media/Sahel-Black.eot": "/personal_site/static/media/Sahel-Black.1193656aface10f4a04d.eot",
+    "static/media/Sahel-Black.ttf": "/personal_site/static/media/Sahel-Black.9738280097bbc5bf5150.ttf",
+    "static/media/Sahel-SemiBold.eot": "/personal_site/static/media/Sahel-SemiBold.d8417bd4f8416ef86ed2.eot",
+    "static/media/Sahel-Bold.eot": "/personal_site/static/media/Sahel-Bold.52b329eb78911b81a23f.eot",
+    "static/media/Sahel-SemiBold.ttf": "/personal_site/static/media/Sahel-SemiBold.dd9e9a75503396e72125.ttf",
+    "static/media/Sahel-Bold.ttf": "/personal_site/static/media/Sahel-Bold.f6bf1f094d89c5f0466f.ttf",
+    "static/media/Sahel.eot": "/personal_site/static/media/Sahel.9cff041eba6818ca07c2.eot",
+    "static/media/Sahel.ttf": "/personal_site/static/media/Sahel.a30832316b417f0a25dc.ttf",
+    "static/media/Sahel-Light.woff": "/personal_site/static/media/Sahel-Light.cc50fc00afdd95e2cebd.woff",
+    "static/media/Sahel-Black.woff": "/personal_site/static/media/Sahel-Black.c16a613fd96c4eb2f515.woff",
+    "static/media/Sahel-Bold.woff": "/personal_site/static/media/Sahel-Bold.dddf4b3931e95f4aeccc.woff",
+    "static/media/Sahel-SemiBold.woff": "/personal_site/static/media/Sahel-SemiBold.821c19b165e9f62b6d06.woff",
+    "static/media/Sahel.woff": "/personal_site/static/media/Sahel.d7cdab0830754b229e7e.woff",
+    "static/media/Sahel-Light.woff2": "/personal_site/static/media/Sahel-Light.87126d2ba0010d96004f.woff2",
+    "static/media/Sahel-Black.woff2": "/personal_site/static/media/Sahel-Black.ad31b93323d8f3008e6a.woff2",
+    "static/media/Sahel-Bold.woff2": "/personal_site/static/media/Sahel-Bold.c6ee7c8c30fab3933116.woff2",
+    "static/media/Sahel-SemiBold.woff2": "/personal_site/static/media/Sahel-SemiBold.482d9c2affbe9162bbcf.woff2",
+    "static/media/Sahel.woff2": "/personal_site/static/media/Sahel.554b66953a8b5fb653ae.woff2",
+    "index.html": "/personal_site/index.html",
+    "main.e751edf8.css.map": "/personal_site/static/css/main.e751edf8.css.map",
+    "main.e65fea64.js.map": "/personal_site/static/js/main.e65fea64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e751edf8.css",
+    "static/js/main.e65fea64.js"
+  ]
+}
