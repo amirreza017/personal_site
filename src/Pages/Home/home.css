@@ -47,7 +47,7 @@ h4 {
     width: 60%;
     justify-content: space-between;
 }
-.btn {
+/* .btn {
     background-color: #3498db;
     border: none;
     padding: 10px 30px;
@@ -60,11 +60,12 @@ h4 {
     background-color: #2980b9;
 }
 .btn-contact {
-    background: none;
-    border: 1px solid #3498db;
-    color: #3498db;
+    background: none !important;
+    border: 1px solid #3498db !important;
+    color: #3498db !important;
 
 }
 .btn-contact:hover {
-    color: #fff;
-}
+    color: #fff !important;
+    background-color: #3498db !important;
+} */

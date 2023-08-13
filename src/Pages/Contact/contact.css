@@ -30,7 +30,7 @@
     max-height: 350PX;
     font-weight: 400;
 }
-.btn {
+/* .btn {
     background-color: #3498db;
     border: none;
     padding: 10px 30px;
@@ -39,7 +39,12 @@
     transition: 300ms;
     cursor: pointer;
     margin-right: 20px;
+    font-family: Sahel;
 }
 .btn:hover {
     background-color: #2980b9;
+} */
+.email_text {
+    margin-right: 10px;
+    color: red;
 }

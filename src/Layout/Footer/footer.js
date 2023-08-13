@@ -1,4 +1,4 @@
-import Heartlogo from '../images/love.png'
+import Heartlogo from '../../images/love.png'
 import React from 'react'
 import './footer.css'
 

@@ -3,9 +3,9 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Home from '../Home/home'
-import About from '../About/about'
-import Contact from '../Contact/contact'
+import Home from '../Pages/Home/home'
+import About from '../Pages/About/about'
+import Contact from '../Pages/Contact/contact'
 import Layout from '../Layout/layout'
 
 function App() {

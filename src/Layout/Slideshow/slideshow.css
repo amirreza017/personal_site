@@ -1,0 +1,13 @@
+.slideshow {
+    width: 80%;
+    margin: 10px auto 30px auto;
+    border: 1px dashed #b1afc177;
+    border-radius: 10px;
+    box-shadow: 0px 25px #B1AFC1, 0px 10px 15px rgba(0, 0, 0, 0.2);
+
+}
+.slideshow img {
+    width: 100%;
+    height: 390px;
+    border-radius: 10px;
+}
